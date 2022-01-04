@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lucas
+- 👀 I’m Back-End Developer, Senior C#, Delphi
+- 🌱 I’m currently learning NodeJs, JavaScript, CSS, HTML
+- 📫 How to reach me: Instagram: @lucas_abc_ Facebook: lukasabc
